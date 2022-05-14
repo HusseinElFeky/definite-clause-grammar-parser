@@ -1,0 +1,11 @@
+s(T,[the,boy,pushed,a,box],[]).
+s(T,[the,young,boy,pushed,and,stored,a,big,box,in,the,large,empty,room,after,school],[]).
+s(T,[the,old,woman,and,the,old,man,gave,the,poor,young,man,a,white,envelope,in,the,shed,behind,the,building],[]).
+s(T,[every,boy,quickly,climbed,some,big,tree,and,every,girl,watched,some,boy,whom,she,liked],[]).
+s(T,[some,brilliant,students,and,many,professors,watched,and,admired,talented,lecturers,and,appreciated,bright,scientists,and,researchers],[]).
+s(T,[who,climbed,the,big,tree],[]).
+s(T,[what,did,professors,do],[]).
+s(T,[the,young,man,climbed,a,big,tree,behind,the,school],[]).
+s(T,[the,brilliant,students,gave,the,professors,a,brilliant,building],[]).
+s(T,[the,student,quickly,appreciated,a,talented,scientist,whom,she,liked],[]).
+s(T,[what,did,the,professors,do,after,school],[]).
